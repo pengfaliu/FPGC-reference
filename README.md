@@ -2,6 +2,9 @@
 
 ![FPGC Logo](Docs/docs/images/logo_big_alpha.png)
 
+> [!WARNING]
+> This repo has been renamed to FPGC-reference, as I want to do a proper cleanup of this project from scratch due to the large amount of features being added over time. This project will be used as reference for this as I want to keep the same functionality (doom already runs on this), I just want to clean up and fine-tune the design, and go over it myself from scratch again. See [FPGC](https://github.com/bartpleiter/FPGC) for the new clean version.
+
 ## What is FPGC?
 
 FPGC (FPGA Computer) is a personal hobby project where I build an entire computer around an FPGA from scratch. None of the main components (CPU, GPU, Memory controllers, PCB, Assembler, OS, FS, Network protocol) use existing designs. Only the C compiler toolchain is modified from an existing codebase (QBE + cproc, libc). The project goes from clock-by-clock hardware logic all the way up to running machine learning algorithms as user programs on a fully custom software stack.
