@@ -41,10 +41,10 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
 
-repo_name: bartpleiter/FPGC
-repo_url: https://github.com/bartpleiter/fpgc
+repo_name: bartpleiter/fpgc-reference
+repo_url: https://github.com/bartpleiter/fpgc-reference
 
-site_url: https://www.bartpleiter.com/fpgc
+site_url: https://www.bartpleiter.com/fpgc-reference
 
 edit_uri: edit/master/Documentation/docs/
 
